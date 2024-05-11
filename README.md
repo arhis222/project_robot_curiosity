@@ -1,2 +1,2 @@
-# project_robot
- A program with which you can test the movements of the Curiosity robot sent to Mars
+# Dynamic Validation of Programs: Ensuring Compatibility of Robot Programs in a Simulation Environment | Project
+I explored dynamic verification of robot programs using observers to ensure compliance with specific properties. This involved defining finite automata, writing examples of robot programs, and implementing an observer package for dynamic verification. Additionally, through this process, I gained a deeper understanding of how to test the code and what criteria to consider when doing so.
