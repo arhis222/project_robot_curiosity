@@ -1,0 +1,92 @@
+5
+11
+9
+~~.#..~.~#~
+#.~~#..#..~
+~~.~.#..~..
+........~.~
+.....C..~..
+##...#.....
+.#.###~~.~.
+.#..~~..~~#
+#~~#..#~~#.
+
+
+la densité d'obstacle obtenue  : 0.45
+la densité d'obstacle attendue  : 0.50
+la densité d'obstacle obtenue est plus petite que densite obstacle attendue avec une difference de 0.05
+
+11
+9
+...#~.~..~.
+#.#........
+.~~#..~.~#~
+#.#..~~....
+#....C.~..#
+.~#~~~.#~.~
+#..#~....~.
+..#..#..#~#
+##.#....~#.
+
+
+la densité d'obstacle obtenue  : 0.42
+la densité d'obstacle attendue  : 0.50
+la densité d'obstacle obtenue est plus petite que densite obstacle attendue avec une difference de 0.08
+
+11
+9
+###.#.~~.~.
+~~.~#.#.#.#
+~~.#.#~~..~
+~##~......~
+..~#.C.~#.#
+.#~....~~~.
+..~.##..~.~
+.####.~...#
+~.~##......
+
+
+la densité d'obstacle obtenue  : 0.52
+la densité d'obstacle attendue  : 0.50
+la densité d'obstacle obtenue est plus grande que densite obstacle attendue avec une difference de 0.02
+
+11
+9
+~#..~...~..
+#..~.....~.
+.#~....####
+~.#~.~.#...
+...~~C....~
+~#~.~.~~#~.
+#.......#.~
+.~.....###.
+#.#~..#.~.#
+
+
+la densité d'obstacle obtenue  : 0.42
+la densité d'obstacle attendue  : 0.50
+la densité d'obstacle obtenue est plus petite que densite obstacle attendue avec une difference de 0.08
+
+11
+9
+....~....~#
+..#...###.#
+....#~#..~#
+.#.#...~#..
+##~.#C...~.
+#~..~...#..
+.~~.##~...#
+.~..#.....#
+#.#~#.~..~~
+
+
+la densité d'obstacle obtenue  : 0.42
+la densité d'obstacle attendue  : 0.50
+la densité d'obstacle obtenue est plus petite que densite obstacle attendue avec une difference de 0.08
+
+les statistiques generelas:
+
+la densité d'obstacle moyenne sur les terrains : 0.45
+nombre du terrain valide: 5
+nombre du terrrain totale: 8
+Le pourcentage de terrain valides par rapport au nombre total généré : 62.50

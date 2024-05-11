@@ -1,0 +1,1 @@
+{1M{7M{DDDDD}{GGGGG}?}{A}?C!}C!

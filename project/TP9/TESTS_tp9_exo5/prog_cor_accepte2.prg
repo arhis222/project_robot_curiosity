@@ -1,0 +1,1 @@
+A A A A D A A A A G A A A 

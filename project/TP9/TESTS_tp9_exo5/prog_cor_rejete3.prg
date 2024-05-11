@@ -1,0 +1,1 @@
+{1M{3M {GGGGG}{D A G} ? } {A} ? C !} C !

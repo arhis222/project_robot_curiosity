@@ -1,0 +1,39 @@
+2
+11
+9
+.##.##..~#.
+##.~.#.##~~
+#~..~##.~.~
+~#~#~#.#...
+~~...C.#~#~
+#~~.###.#.#
+.#...~~~##~
+~~.~~#~~.~.
+~#.~~#~#.#.
+
+
+la densité d'obstacle obtenue  : 0.66
+la densité d'obstacle attendue  : 0.60
+
+11
+9
+.#.~#~..#.~
+.~.~.....~#
+.~.#...~.#.
+.##..#..~~#
+~...~C.#.~~
+...##.~#~.#
+~##~#..~#.~
+...#.~..~.#
+~.#.##~#~##
+
+
+la densité d'obstacle obtenue  : 0.53
+la densité d'obstacle attendue  : 0.60
+
+les statistiques generelas:
+
+la densité d'obstacle moyenne sur les terrains : 0.59
+nombre du terrain valide: 2
+nombre du terrrain totale: 2
+Le pourcentage de terrain valides par rapport au nombre total généré : 100.00

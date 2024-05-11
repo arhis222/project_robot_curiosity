@@ -1,0 +1,1 @@
+G G G D  1 M A 1 M A 1 M A
